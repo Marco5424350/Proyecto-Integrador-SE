@@ -2,11 +2,7 @@
 
 Este es un sistema de control médico básico desarrollado en Java 8 y Swing con una base de datos MySQL 8 o 5. Este sistema permite a los usuarios administrar información médica, pacientes, citas y más.
 
-## Autor
-Jose Luis Caamal Ic
-jcaamalic@gmail.com
-Kaab Code
-Visita kaabcode.com
+
 
 ## Requisitos
 
